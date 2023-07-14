@@ -1,0 +1,15 @@
+REQUIREMENTS
+
+Operating System : Windows 10 
+Coding Language : Python
+Tool Kit : Image Processing 
+IDE : PyCharm 4.2.1
+Interpreter Used:Python 3.8
+Packages Used: OpenCV,Mediapipe,PyautoGUI
+System : Intel corei3
+Processor : Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz 2.30 GHz 
+Installed RAM : 4.00 GB
+System type : 64-bit operating system, x64-based processor 
+Webcam : 720p HD Webcam
+
+
